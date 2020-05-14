@@ -6,8 +6,8 @@ The vehicle routing problem (VRP) is a combinatorial optimization and integer pr
 ## Travelling Salesman Problem
 The travelling salesman problem (also called the travelling salesperson problem or TSP) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" It is an NP-hard problem in combinatorial optimization, important in operations research and theoretical computer science.
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg" alt="Travelling Salesman Problem" width="400" height="400">
-<img src= " https://upload.wikimedia.org/wikipedia/commons/2/2b/Figure_illustrating_the_vehicle_routing_problem.png" alt="Vehicle Routing" width="400" height="400"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg" alt="Travelling Salesman Problem" width="600" height="600">
+<img src= " https://upload.wikimedia.org/wikipedia/commons/2/2b/Figure_illustrating_the_vehicle_routing_problem.png" alt="Vehicle Routing" width="600" height="600"> 
 
 
 
